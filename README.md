@@ -1,2 +1,2 @@
-# Keyboard
-Get the key value from keyboard
+# Keyboard_win32
+Get the key value from keyboard (win32)
